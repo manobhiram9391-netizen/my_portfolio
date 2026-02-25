@@ -9,7 +9,7 @@
 /* THEME COLORS */
 :root {
     --black: #0F0F0F;
-    --gold: #C9A227;
+    --gold: #FF2E2E;
     --white: #FFFFFF;
     --grey: #CCCCCC;
 }
@@ -524,4 +524,5 @@
     padding: 20px;
     color: var(--grey);
     font-size: 14px;
+
 }
